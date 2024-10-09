@@ -90,7 +90,7 @@ paginate = 6
   name = "{Budi|Andi|Joko|Eko|Rudi|Hendra|Agus|Wawan|Fajar|Rio}"
   message = "{Saya membeli karpet dari karpet.bangunan.co untuk {musholla|ruang ibadah} di rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. {Kualitas|Mutu} karpet {sangat bagus|berkualitas tinggi|unggul} dan {nyaman|lembut}.|Karpet yang saya pesan dari karpet.bangunan.co {sangat nyaman|lembut} dan {sesuai|cocok} dengan desain rumah saya.}"
   response = "{Terima kasih atas kepercayaannya! Kami senang dapat menyediakan karpet {berkualitas|unggul} untuk {musholla|ruang ibadah} Anda.|Kami menghargai kepercayaan Anda. Terima kasih telah memilih karpet kami!}"
-  rating = 4.3
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
@@ -118,7 +118,7 @@ paginate = 6
   name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
   message = "{Pelayanan karpet.bangunan.co {sangat memuaskan|luar biasa}. Karpet yang saya {pasang|beli} di musholla kantor {sangat berkualitas|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya {sangat puas|terkesan} dengan karpet dari karpet.bangunan.co, kualitas dan kenyamanannya {luar biasa|hebat}.}"
   response = "{Terima kasih! Kami senang dapat membantu memperindah musholla kantor Anda dengan karpet {berkualitas|unggul}.|Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya!}"
-  rating = 4.2
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
