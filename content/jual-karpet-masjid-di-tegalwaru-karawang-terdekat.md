@@ -1,6 +1,6 @@
 ---
 title: 'Jual Karpet Masjid Di Tegalwaru Karawang [Terdekat]'
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - grosir
 description: >-
