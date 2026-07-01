@@ -1,6 +1,6 @@
 ---
 title: 'Jual Karpet Masjid Di Jelambar Jakarta [Terdekat]'
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - grosir
 description: >-
