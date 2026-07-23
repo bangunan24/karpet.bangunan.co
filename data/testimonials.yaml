@@ -1,53 +1,51 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rio
+    name: Wawan
     message: >-
-      Saya membeli karpet dari karpet.bangunan.co untuk musholla di rumah saya,
-      dan hasilnya luar biasa. Mutu karpet unggul dan lembut.
+      Saya membeli karpet dari karpet.bangunan.co untuk ruang ibadah di rumah
+      saya, dan hasilnya luar biasa. Kualitas karpet unggul dan lembut.
     response: Kami menghargai kepercayaan Anda. Terima kasih telah memilih karpet kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Maya
     message: >-
       karpet.bangunan.co mempermudah dalam memilih karpet untuk musholla kami.
-      Karpet yang kami pilih lembut dan mempercantik di ruang ibadah.
+      Karpet yang kami pilih sangat nyaman dan mempercantik di ruang ibadah.
     response: >-
       Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
       dengan karpet yang kami sediakan.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Bambang
+    name: Rizal
     message: >-
-      Karpet dari karpet.bangunan.co berkualitas dan tepat untuk musholla di
-      rumah saya. Proses pembelian dan pengirimannya juga sangat cepat.
+      Karpet dari karpet.bangunan.co sangat elegan dan tepat untuk musholla di
+      rumah saya. Proses pembelian dan pengantaran juga efisien.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan karpet elegan dan sesuai
-      dengan kebutuhan Anda.
+      Terima kasih! Kami berkomitmen untuk menyediakan karpet berkualitas dan
+      sesuai dengan kebutuhan Anda.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Andi
-    message: >-
-      Karpet yang saya pesan dari karpet.bangunan.co tepat dengan desain
-      musholla saya dan empuk.
-    response: >-
-      Senang mendengar Anda puas dengan produk kami, Andi. Terima kasih atas
-      kepercayaannya!
-    rating: 4
-  - avatar: /images/admin/avatar5.png
-    name: Lina
-    message: >-
-      Saya terkesan dengan karpet dari karpet.bangunan.co, kualitas dan
-      kenyamanannya luar biasa.
-    response: >-
-      Terima kasih! Kami senang dapat membantu memperindah musholla kantor Anda
-      dengan karpet berkualitas.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Benny
     message: >-
-      Karpet dari karpet.bangunan.co tepat dengan desain musholla di rumah saya.
-      Pengirimannya aman dan karpet sangat nyaman.
+      Karpet yang saya pesan dari karpet.bangunan.co tepat dengan desain
+      musholla saya dan sangat nyaman.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk karpet kami. Terima
-      kasih atas ulasannya!
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih produk
+      kami!
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Siti
+    message: >-
+      Pelayanan karpet.bangunan.co luar biasa. Karpet yang saya pasang di
+      musholla kantor sangat berkualitas dan sesuai dengan harapan saya.
+    response: Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya!
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Deni
+    message: >-
+      Saya terkesan dengan karpet dari karpet.bangunan.co, nyaman dan sesuai
+      dengan desain musholla saya.
+    response: >-
+      Terima kasih telah mempercayakan musholla Anda kepada kami. Kami senang
+      Anda puas dengan hasilnya.
     rating: 4
