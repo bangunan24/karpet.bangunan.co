@@ -1,6 +1,6 @@
 ---
 title: 'Jual Karpet Masjid Di Katulampa Bogor [Terdekat]'
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - grosir
 description: >-

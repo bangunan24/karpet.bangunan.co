@@ -1,6 +1,6 @@
 ---
 title: 'Jual Karpet Masjid Di Darangdan Purwakarta [Terdekat]'
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - grosir
 description: >-
