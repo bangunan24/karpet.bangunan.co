@@ -1,6 +1,6 @@
 ---
 title: 'Jual Karpet Masjid Di Cibatu Purwakarta [Terdekat]'
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - grosir
 description: >-
